@@ -10,6 +10,10 @@ I am a passionate software developer with experience in frontend and backend dev
 - Frontend: HTML, CSS, JavaScript, React, NextJs Redux,  Angular, NgRx, RxJs, Tailwind CSS
 - Backend: NodeJS, Express, GraphQL
 - Tools: Typescript, Git, VS Code, Figma, Jest, Webpack, and more...
+
+[![image](https://www.codewars.com/users/TauAdam/badges/large
+)](https://www.codewars.com/users/TauAdam/)
+
 ### Contact Me
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project.
