@@ -13,9 +13,3 @@ I am a passionate software developer with experience in frontend and backend dev
 
 [![image](https://www.codewars.com/users/TauAdam/badges/large
 )](https://www.codewars.com/users/TauAdam/)
-
-### Contact Me
-
-Feel free to reach out to me if you have any questions or would like to collaborate on a project.
-
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miras-suleimen/)
